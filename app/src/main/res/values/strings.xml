@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">My Application8</string>
     <string name="confirm_digits">Confirm digits</string>
+    <string name="label">Email</string>
 </resources>
